@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
-<h3 align="center">Backend Developer | Fastapi, NestJS</h3>
+<h3 align="center">Backend Developer from Azerbaijan | Fastapi, NestJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
 
