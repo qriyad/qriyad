@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
 
-- 🌱 I’m currently learning **NestJS, FastAPI, React**
+- 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **React, FastAPI**
+- 💬 Ask me about **React, FastAPI, HTML, CSS, Javascript, Typescript**
 
 - 📫 How to reach me: **riyadqhrmanli@gmail.com**
 
