@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
 </div>
 
-<div>
+<div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact" alt="qriyad" /></p>
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en" alt="qriyad" /></p>
   <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qriyad&" alt="qriyad" /></p>
