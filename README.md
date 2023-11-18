@@ -41,4 +41,4 @@
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en" alt="qriyad" /></p>
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qriyad&" alt="qriyad" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=qriyad&" alt="qriyad" /></p>
