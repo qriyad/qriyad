@@ -12,9 +12,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img>
-<a href="https://www.codechef.com/users/capybara31" target="blank"><img align="center" src="https://img.shields.io/badge/Codechef-capybara31-blue?style=flat&logo=codechef" alt="capybara31" height="30" /></a>
-<a href="https://codeforces.com/profile/hugs_from_capybara" target="blank"><img align="center" src="https://img.shields.io/badge/Codeforces-hugs_from_capybara-blue?style=flat&logo=codeforces" alt="hugs_from_capybara" height="30" /></a>
-<a href="https://www.leetcode.com/the_agent_bara" target="blank"><img align="center" src="https://img.shields.io/badge/LeetCode-the_agent_bara-blue?style=flat&logo=leetcode" alt="the_agent_bara" height="30" /></a>
+<img src = "https://img.shields.io/badge/Codechef-gray.svg?style=for-the-badge&logo=codechef&logoColor=white"></img>
+<img src = "https://img.shields.io/badge/Codeforces-E8E8E8.svg?style=for-the-badge&logo=Codeforces&logoColor=white"></img>
+<img src = "https://img.shields.io/badge/Leetcode-FC9547.svg?style=for-the-badge&logo=Leetcode&logoColor=white"></img>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
