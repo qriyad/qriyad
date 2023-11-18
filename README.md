@@ -18,26 +18,23 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-   <img src="https://img.shields.io/badge/Bootstrap-Bootstrap-563D7C?style=flat&logo=bootstrap" alt="bootstrap" height="30" />
-   <img src="https://img.shields.io/badge/C++-C++-00599C?style=flat&logo=c%2B%2B" alt="cplusplus" height="30" />
-   <img src="https://img.shields.io/badge/CSS3-CSS3-1572B6?style=flat&logo=css3" alt="css3" height="30" />
-   <img src="https://img.shields.io/badge/Docker-Docker-2496ED?style=flat&logo=docker" alt="docker" height="30" />
-   <img src="https://img.shields.io/badge/Firebase-Firebase-FFCA28?style=flat&logo=firebase" alt="firebase" height="30" />
-   <img src="https://img.shields.io/badge/Git-Git-F05032?style=flat&logo=git" alt="git" height="30" />
-   <img src="https://img.shields.io/badge/HTML5-HTML5-E34F26?style=flat&logo=html5" alt="html5" height="30" />
-   <img src="https://img.shields.io/badge/JavaScript-JavaScript-F7DF1E?style=flat&logo=javascript" alt="javascript" height="30" />
-   <img src="https://img.shields.io/badge/MongoDB-MongoDB-47A248?style=flat&logo=mongodb" alt="mongodb" height="30" />
-   <img src="https://img.shields.io/badge/MySQL-MySQL-4479A1?style=flat&logo=mysql" alt="mysql" height="30" />
-   <img src="https://img.shields.io/badge/NestJS-NestJS-E0234E?style=flat&logo=nestjs" alt="nestjs" height="30" />
-   <img src="https://img.shields.io/badge/Node.js-Node.js-339933?style=flat&logo=node.js" alt="nodejs" height="30" />
-   <img src="https://img.shields.io/badge/PostgreSQL-PostgreSQL-336791?style=flat&logo=postgresql" alt="postgresql" height="30" />
-   <img src="https://img.shields.io/badge/Postman-Postman-FF6C37?style=flat&logo=postman" alt="postman" height="30" />
-   <img src="https://img.shields.io/badge/Python-Python-3776AB?style=flat&logo=python" alt="python" height="30" />
-   <img src="https://img.shields.io/badge/React-React-61DAFB?style=flat&logo=react" alt="react" height="30" />
-   <img src="https://img.shields.io/badge/SQLite-SQLite-003B57?style=flat&logo=sqlite" alt="sqlite" height="30" />
-   <img src="https://img.shields.io/badge/TypeScript-TypeScript-3178C6?style=flat&logo=typescript" alt="typescript" height="30" />
-</p>
+![Bootstrap]<img src = "https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
+![C++]<img src = "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
+![CSS3]<img src = "https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
+![Docker]<img src = "https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white"></img>
+![Git]<img src = "https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white"></img>
+![HTML5]<img src = "https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"></img>
+![JavaScript]<img src = "https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"></img>
+![MongoDB]<img src = "https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=mongodb&logoColor=white"></img>
+![MySQL]<img src = "https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white"></img>
+![NestJS]<img src = "https://img.shields.io/badge/NestJS-E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"></img>
+![Node.js]<img src = "https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node-dot-js&logoColor=white"></img>
+![PostgreSQL]<img src = "https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=postgresql&logoColor=white"></img>
+![Postman]<img src = "https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white"></img>
+![Python]<img src = "https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white"></img>
+![React]<img src = "https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></img>
+![SQLite]<img src = "https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></img>
+![TypeScript]<img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact" alt="qriyad" /></p>
 
