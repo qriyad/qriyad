@@ -33,6 +33,8 @@
   <img src = "https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></img>
   <img src = "https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
+  <img src="https://img.shields.io/badge/SQLModel-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlmodel">
+  <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
 </div>
 
 <div>
