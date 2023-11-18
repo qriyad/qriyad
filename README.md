@@ -1,4 +1,4 @@
-![image](https://github.com/qriyad/qriyad/assets/94737851/f2c18add-b069-48e2-b3cc-42a58e6a87fb)<h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
+<h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
 <h3 align="center">Backend Developer from Azerbaijan | Fastapi, NestJS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
