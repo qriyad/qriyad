@@ -38,7 +38,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact&theme=dark" alt="qriyad" />
-  <img src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en&theme=dark" alt="qriyad" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qriyad&theme=dark" alt="qriyad" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact&theme=dark" alt="qriyad" height=165 />
+  <img src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en&theme=dark" alt="qriyad" height=165 />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=qriyad&theme=dark" alt="qriyad" height=165 />
 </div>
