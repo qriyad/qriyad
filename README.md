@@ -35,7 +35,7 @@
   <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
 </div>
 
-<div>
+<div align="center">
   <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact" alt="qriyad" /></p>
 
   <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en" alt="qriyad" /></p>
