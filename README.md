@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **React, FastAPI**
 
-- 📫 How to reach me **riyadqhrmanli@gmail.com**
+- 📫 How to reach me: **riyadqhrmanli@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
