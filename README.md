@@ -1,5 +1,7 @@
-<h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
+![image](https://github.com/qriyad/qriyad/assets/94737851/f2c18add-b069-48e2-b3cc-42a58e6a87fb)<h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
 <h3 align="center">Backend Developer from Azerbaijan | Fastapi, NestJS</h3>
+
+<img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F471892867195095521%2F&psig=AOvVaw2EbdhhaWlaqoqhDBVIfo92&ust=1700418374491000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCOjcnZuWzoIDFQAAAAAdAAAAABAJ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
 
