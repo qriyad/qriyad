@@ -33,8 +33,6 @@
   <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
 </div>
 
-<br></br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact&theme=dark" alt="qriyad" height=165 />
   <img src="https://github-readme-stats.vercel.app/api?username=qriyad&show_icons=true&locale=en&theme=dark" alt="qriyad" height=165 />
