@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
 <h3 align="center">Backend Developer | Fastapi, NestJS</h3>
-<p align="center">
-    <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=#B1B7D1&style=flat&theme=dark" alt="alimddar" />
-</p>
 <h3 align="center">🌐 Socials:</h3>
 <p align = "center">
   <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</p>
+
+<p align="center">
+    <img src="https://visitcount.itsvg.in/api?id=alimddar&label=Profile%20Views&color=#B1B7D1&style=flat&theme=dark" alt="alimddar" />
 </p>
 
 <h3 align = "left">💫 About Me:</h3>
