@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href = "https://www.codechef.com/users/capybara31"></img src = "https://img.shields.io/badge/Codechef-E8E8E8.svg?style=for-the-badge&logo=Codechef&logoColor=black"></img></a>
+<a href = "https://www.codechef.com/users/capybara31"><img src = "https://img.shields.io/badge/Codechef-E8E8E8.svg?style=for-the-badge&logo=Codechef&logoColor=black"></img></a>
 <a href = "https://codeforces.com/profile/hugs_from_capybara"><img src = "https://img.shields.io/badge/Codeforces-E8E8E8.svg?style=for-the-badge&logo=Codeforces&logoColor=white"></img></a>
 <a href = "https://leetcode.com/theagentbara/"><img src = "https://img.shields.io/badge/Leetcode-FC9547.svg?style=for-the-badge&logo=Leetcode&logoColor=white"></img></a>
 </p>
