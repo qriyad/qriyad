@@ -6,6 +6,9 @@
   <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 
+<h3 align = "left">💫 About Me:</h3>
+<p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient websites using React, FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated in different olympiads about math and informatics. </p>
+
 🌱 I’m currently learning **NestJS**
 
 💬 Ask me about **React, FastAPI, Python, HTML, CSS**
