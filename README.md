@@ -12,7 +12,7 @@
 
 💬 Ask me about **React, FastAPI, Python, HTML, CSS**
 
-📫 How to reach me **riyadqhrmanli@gmail.com**
+📫 How to reach me: **riyadqhrmanli@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
