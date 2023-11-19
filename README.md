@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **NestJS**
 
-- 💬 Ask me about **React, FastAPI, Python, Javascript, HTML, CSS**
+- 💬 Ask me about **React, FastAPI, Python, HTML, CSS**
 
 - 📫 How to reach me **riyadqhrmanli@gmail.com**
 
