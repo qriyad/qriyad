@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Fastapi, NestJS</h3>
 <h3 align="center">🌐 Socials:</h3>
 <p align = "center">
-  <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+  <a href = "https://www.instagram.com/qahramanli_riyad/"><img style="border-radius: 3px" src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 <h3 align = "left">💫 About Me:</h3>
 <p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient web applications using React, FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated and won medals in different olympiads about math and informatics. I am keen on participating in different competitions, hackathons and making scalable projects.</p>
