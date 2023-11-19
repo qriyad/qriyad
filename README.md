@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Fastapi, NestJS</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
 <h3 align="center">🌐 Socials:</h3>
-<p>
+<p align = "center">
   <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
 - 🌱 I’m currently learning **NestJS**
