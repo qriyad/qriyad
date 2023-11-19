@@ -7,7 +7,7 @@
 </p>
 
 <h3 align = "left">💫 About Me:</h3>
-<p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient websites using React, FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated in different olympiads about math and informatics. </p>
+<p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient web applications using React, FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated in different olympiads about math and informatics. </p>
 
 🌱 I’m currently learning **NestJS**
 
