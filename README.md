@@ -1,20 +1,15 @@
 <h1 align="center">Hi 👋, I'm Riyad Qahramanli</h1>
 <h3 align="center">Backend Developer | Fastapi, NestJS</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=qriyad&label=Profile%20views&color=0e75b6&style=flat" alt="qriyad" /> </p>
-
+<h3 align="center">🌐 Socials:</h3>
+<p>
+  <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
+</p>
 - 🌱 I’m currently learning **NestJS**
 
 - 💬 Ask me about **React, FastAPI, Python, HTML, CSS**
 
 - 📫 How to reach me **riyadqhrmanli@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
-<a href = "https://www.codechef.com/users/capybara31"><img src = "https://img.shields.io/badge/Codechef-E8E8E8.svg?style=for-the-badge&logo=Codechef&logoColor=black"></img></a>
-<a href = "https://codeforces.com/profile/hugs_from_capybara"><img src = "https://img.shields.io/badge/Codeforces-E8E8E8.svg?style=for-the-badge&logo=Codeforces&logoColor=light"></img></a>
-<a href = "https://leetcode.com/theagentbara/"><img src = "https://img.shields.io/badge/Leetcode-FC9547.svg?style=for-the-badge&logo=Leetcode&logoColor=white"></img></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <div>
