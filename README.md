@@ -5,8 +5,8 @@
 <p align = "center">
   <a href = "https://www.instagram.com/qahramanli_riyad/"><img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white"></img></a>
 </p>
-🌱 I’m currently learning **NestJS**
 
+🌱 I’m currently learning **NestJS**
 
 💬 Ask me about **React, FastAPI, Python, HTML, CSS**
 
