@@ -16,7 +16,7 @@
 📫 How to reach me: **riyadqhrmanli@gmail.com**
 
 <h3 align="left">Languages and Tools:</h3>
-<div style = "margin-left: 20px">
+<p align = "center">
   <img src = "https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
@@ -34,7 +34,7 @@
   <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
   <img src="https://img.shields.io/badge/SQLModel-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlmodel">
   <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
-</div>
+</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qriyad&show_icons=true&locale=en&layout=compact&theme=dark" alt="qriyad" height=165 />
