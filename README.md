@@ -9,7 +9,7 @@
 <h3 align = "left">💫 About Me:</h3>
 <p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient web applications using React, FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated and won medals in different olympiads about math and informatics. I am keen on participating in different competitions, hackathons and making scalable projects.</p>
 
-🌱 I’m currently learning **NestJS**
+🌱 I’m currently learning **NestJS, Django**
 
 💬 Ask me about **React, FastAPI, Python, HTML, CSS, Javascript**
 
@@ -17,6 +17,8 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align = "center">
+  <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
   <img src = "https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"></img>
