@@ -2,7 +2,7 @@
 <h3 align="center">Backend Developer | Fastapi, NestJS</h3>
 <h3 align="center">🌐 Socials:</h3>
 <p align = "center">
-  <a href="https://www.instagram.com/qahramanli_riyad/" target="blank">
+  <a href="https://www.instagram.com/qqriyad/" target="blank">
     <img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
