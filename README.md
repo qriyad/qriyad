@@ -4,6 +4,7 @@
 <p align = "center">
   <a href="https://www.instagram.com/qqriyad/" target="blank">
     <img src = "https://img.shields.io/badge/Instagram-C802F5.svg?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src = "https://img.shields.io/badge/Linkedin-0077b5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
 <h3 align = "left">💫 About Me:</h3>
