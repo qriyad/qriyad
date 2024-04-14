@@ -12,7 +12,7 @@
 <h3 align = "left">💫 About Me:</h3>
 <p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient web applications using FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated and won medals in different olympiads about math and informatics. I am keen on participating in different competitions, hackathons and making scalable projects.</p>
 
-🌱 I’m currently learning **ExpressJS**
+🌱 I’m currently learning **ExpressJS, Machine Learning**
 
 💬 Ask me about **Python, Javascript**
 
