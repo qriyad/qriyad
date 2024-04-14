@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Riyad</h1>
-<h3 align="center">Backend Developer | Fastapi, NestJS</h3>
+<h3 align="center">Backend Developer | Fastapi, NestJS, ExpressJS</h3>
 <h3 align="center">🌐 Socials:</h3>
 <p align = "center">
   <a href="https://www.instagram.com/qqriyad/" target="blank">
@@ -12,9 +12,9 @@
 <h3 align = "left">💫 About Me:</h3>
 <p align = "left">I'm a 13-year-old boy from Azerbaijan, trying to be a backend developer and specializing in creating efficient web applications using FastAPI, NestJS. Besides backend development, I am a competitive programmer and have participated and won medals in different olympiads about math and informatics. I am keen on participating in different competitions, hackathons and making scalable projects.</p>
 
-🌱 I’m currently learning **NestJS**
+🌱 I’m currently learning **ExpressJS**
 
-💬 Ask me about **FastAPI, Python, Javascript**
+💬 Ask me about **Python, Javascript**
 
 📫 How to reach me: **riyadqhrmanli@gmail.com**
 
@@ -36,6 +36,7 @@
   <img src = "https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"></img>
   <img src = "https://img.shields.io/badge/SQLite-003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white"></img>
   <img src = "https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white"></img>
+  <img src = "https://img.shields.io/badge/EXPRESSJS-F7DF1E.svg?style=for-the-badge&logo=express&logoColor=black"></img>
   <img src="https://img.shields.io/badge/SQLModel-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlmodel">
   <img src="https://img.shields.io/badge/SQLAlchemy-3776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Sqlalchemy">
 </p>
