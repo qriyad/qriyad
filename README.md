@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Developing my algorithmic skills<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about Javascript, Python
+🔭 I’m currently doing Competitive Programming<br>🌱 I’m currently learning ExpressJS<br>💬 Ask me about Javascript, Python
 
 
 ## 🌐 Socials:
